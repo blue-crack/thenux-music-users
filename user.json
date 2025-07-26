@@ -5,6 +5,15 @@
     "email": "avanthiliyanage16@gmail.com",
     "password": "Dms535688",
     "createdAt": "2025-07-26T16:43:51.010Z",
-    "playlists": []
+    "playlists": [
+      {
+        "id": "playlist-1753549340796",
+        "name": "My Playlist #1",
+        "description": "",
+        "songs": [],
+        "thumbnail": "https://picsum.photos/seed/MyPlaylist#1/300/300",
+        "createdAt": "2025-07-26T17:02:20.796Z"
+      }
+    ]
   }
 ]
