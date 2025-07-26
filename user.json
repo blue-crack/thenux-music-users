@@ -15,5 +15,13 @@
         "createdAt": "2025-07-26T17:06:15.757Z"
       }
     ]
+  },
+  {
+    "id": "user-1753549653724",
+    "username": "Kariya",
+    "email": "fuckyou@gmail.com",
+    "password": "thenuxlokuda",
+    "createdAt": "2025-07-26T17:07:33.724Z",
+    "playlists": []
   }
 ]
