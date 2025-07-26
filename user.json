@@ -45,6 +45,14 @@
         ],
         "thumbnail": "https://picsum.photos/seed/Mood/300/300",
         "createdAt": "2025-07-26T17:41:09.948Z"
+      },
+      {
+        "id": "playlist-1753552007928",
+        "name": "My Playlist #3",
+        "description": "",
+        "songs": [],
+        "thumbnail": "https://picsum.photos/seed/MyPlaylist#3/300/300",
+        "createdAt": "2025-07-26T17:46:47.928Z"
       }
     ]
   },
