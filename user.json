@@ -96,15 +96,6 @@
     "email": "fuckyou@gmail.com",
     "password": "thenuxlokuda",
     "createdAt": "2025-07-26T17:07:33.724Z",
-    "playlists": [
-      {
-        "id": "playlist-1754101449781",
-        "name": "My Playlist #1",
-        "description": "",
-        "songs": [],
-        "thumbnail": "https://picsum.photos/seed/MyPlaylist#1/300/300",
-        "createdAt": "2025-08-02T02:24:09.781Z"
-      }
-    ]
+    "playlists": []
   }
 ]
