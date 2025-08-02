@@ -96,6 +96,15 @@
     "email": "fuckyou@gmail.com",
     "password": "thenuxlokuda",
     "createdAt": "2025-07-26T17:07:33.724Z",
-    "playlists": []
+    "playlists": [
+      {
+        "id": "playlist-1754101480001",
+        "name": "Calm",
+        "description": "thenux-lokui thama\n",
+        "songs": [],
+        "thumbnail": "https://picsum.photos/seed/Calm/300/300",
+        "createdAt": "2025-08-02T02:24:40.001Z"
+      }
+    ]
   }
 ]
